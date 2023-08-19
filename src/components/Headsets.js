@@ -26,7 +26,7 @@ const Headsets = () => {
             data-aos='zoom-in'
             data-aos-offset='300'
             data-aos-delay='1000'
-          ><a href='https://www.figma.com/community/file/1153674894594709958' target="_blank" rel="noreferrer">
+          ><a href='https://www.figma.com/proto/EfWRk8QFotWnWBwxKYiAKi/Chairo-%7C-Spcae-(Community)?type=design&node-id=105-262&t=jOm8oiYQPDf6Kv6o-1&scaling=scale-down&page-id=105%3A261&mode=design' target="_blank" rel="noreferrer">
             <img className='object-cover' src={chairoo} alt='lund' style={{height:400 , width:700 }} /></a>
             <div className='absolute bottom-0 bg-white/20 backdrop-blur-md max-w-[300px] min-h-[150px] p-6'>
               <h4 className='font-semibold text-xl mb-2'>Bookmaker</h4>
